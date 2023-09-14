@@ -22,6 +22,14 @@ const QuestionData =[
         C:"MySQL",
         D:"Chrome",
         answer:"D"
+    },
+    {
+        question:"สิ้งไหนเกิดก่อนกัน",
+        A:"ไก่",
+        B:"ไข่",
+        C:"ไดโนเสาร์",
+        D:"ไม่รู้",
+        answer:"D"
     }
 ]
 
