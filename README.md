@@ -2,7 +2,7 @@
 
 A Simple Quiz Web Application (●'◡'●)
 
-##  Getting Started 
+## 🚩 Getting Started 
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
