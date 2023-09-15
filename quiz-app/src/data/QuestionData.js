@@ -1,6 +1,6 @@
 const QuestionData =[
     {
-        question:"ข้อใดไม่ใข่ tag html",
+        question:"ข้อใดไม่ใช่ tag html",
         A:"<react>",
         B:"<a>",
         C:"<p>",
@@ -24,7 +24,7 @@ const QuestionData =[
         answer:"D"
     },
     {
-        question:"สิ้งไหนเกิดก่อนกัน",
+        question:"สิ่งไหนเกิดก่อนกัน",
         A:"ไก่",
         B:"ไข่",
         C:"ไดโนเสาร์",

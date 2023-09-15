@@ -7,10 +7,12 @@ const Quiz =()=>{
     const[current,setCurrent]=useState(0)
     const[selectChoice,setSelectChoice]=useState("")
     const{score,setScore,setAppState}=useContext(DataContext)
-
+    
     useEffect(()=>{
         checkAnswer()
-    },[selectChoice])
+    },
+    // eslint-disable-next-line
+    [selectChoice])
 
     const checkAnswer=()=>{
         if(selectChoice!==""){
